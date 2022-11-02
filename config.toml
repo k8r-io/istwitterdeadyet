@@ -4,10 +4,10 @@ title = 'Is Twitter Dead Yet?'
 theme = "hello-friend-ng"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+  # dateform        = "Jan 2, 2006"
+  # dateformShort   = "Jan 2"
+  # dateformNum     = "2006-01-02"
+  # dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
   # homeSubtitle = "Is Twitter Dead Yet?"
@@ -16,7 +16,7 @@ theme = "hello-friend-ng"
   disableReadOtherPosts = true
 
   # Enable sharing buttons, if you like
-  enableSharingButtons = false
+  enableSharingButtons = true
 
   # Metadata mostly used in document's head
   # description = "Is Twitter Dead Yet?"
