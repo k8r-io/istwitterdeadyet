@@ -16,16 +16,16 @@ theme = "hello-friend-ng"
   disableReadOtherPosts = true
 
   # Enable sharing buttons, if you like
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Metadata mostly used in document's head
   # description = "Is Twitter Dead Yet?"
   # images = [""]
 
-# [taxonomies]
-#     category = "blog"
-#     tag      = "tags"
-#     series   = "series"
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
 
 [languages]
   [languages.en]
