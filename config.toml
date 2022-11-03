@@ -3,6 +3,17 @@ languageCode = 'en-us'
 title = 'Is Twitter Dead Yet?'
 theme = "hello-friend-ng"
 
+paginate  = 10
+rssLimit  = 100  # Maximum number of items in the RSS feed.
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+disableRSS      = false
+disableSitemap  = true
+disable404      = true
+disableHugoGeneratorInject = false
+
 [params]
   # dateform        = "Jan 2, 2006"
   # dateformShort   = "Jan 2"
