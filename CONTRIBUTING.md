@@ -10,7 +10,7 @@
 7. `git submodule update`
 
 ## Start the local server
-1. `hugo server -D -t hello-friend-ng`
+1. `hugo server -D`
 2. Visit [http://localhost:1313/](http://localhost:1313/) on your browser
 
 ## Adding an event
