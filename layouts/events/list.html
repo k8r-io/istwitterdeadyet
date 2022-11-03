@@ -1,0 +1,6 @@
+{{ define "main"}}
+  {{range $.Pages.ByDate }}
+    <h2><a href={{.Permalink}}>{{.Title}}</a></h2>
+    {{ .Summary | safeHTML}}
+  {{end}}
+{{ end }}
