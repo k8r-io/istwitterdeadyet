@@ -22,19 +22,19 @@ theme = "hello-friend-ng"
   # description = "Is Twitter Dead Yet?"
   # images = [""]
 
+  # Enable theme toggle
+  #
+  # This options enables the theme toggle for the theme.
+  # Per default, this option is off.
+  # The theme is respecting the prefers-color-scheme of the operating systeme.
+  # With this option on, the page user is able to set the scheme he wants.
+  enableThemeToggle = true
+
   [params.logo]
     logoMark     = ">"
     logoText     = "Is Twitter Dead Yet?"
     logoHomeLink = "/"
     logoCursorDisabled = true
-
-  [[params.social]]
-    name = "email"
-    url  = "mailto:nobody@example.com"
-
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/"
 
 [taxonomies]
     category = "blog"
