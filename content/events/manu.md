@@ -1,7 +1,7 @@
 ---
 title: "Manu is let go"
 date: 2022-11-01T17:22:00-05:00
-draft: true
+draft: false
 ---
 {{< tweet user=lmanul id=1587601005251743745 >}}
 <!--more-->

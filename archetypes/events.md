@@ -1,7 +1,7 @@
 ---
 title: "{{ replaceRE "[-_]" " " .Name | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
 ---
 {{< tweet user=<user> id=<id> >}}
 <!--more-->
